@@ -4,3 +4,11 @@ keystore.properties
 /build/
 /app/build/
 vibetube-db.json
+gradle/*
+.gradle/
+gradle/
+!gradle/wrapper/
+!gradlew
+!gradlew.bat
+build/
+app/build/
